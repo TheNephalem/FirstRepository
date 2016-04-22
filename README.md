@@ -1,2 +1,2 @@
 # FirstRepository
-change 1
+Git is so much fun I simply cannot believe it!!!
